@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1ce61ac2-d5b6-43d8-ac10-2b5352345aa7",
+    "Name": "UsrRandomAppRelatedPage",
+    "ModifiedOnUtc": "\/Date(1730428189000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Random App (Page settings)",
+    "DependsOn": []
+  }
+}

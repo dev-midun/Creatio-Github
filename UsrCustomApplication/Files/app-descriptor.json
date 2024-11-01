@@ -1,0 +1,24 @@
+{
+  "Name": "Custom Application",
+  "Description": "",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIxIDZIMjZDMjcuMTA0NiA2IDI4IDYuODk1NDMgMjggOFYxNkMyOCAxNy4xMDQ2IDI3LjEwNDYgMTggMjYgMThIMjFDMTkuODk1NCAxOCAxOSAxNy4xMDQ2IDE5IDE2VjhDMTkgNi44OTU0MyAxOS44OTU0IDYgMjEgNloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02IDE3SDEyQzEzLjEwNDYgMTcgMTQgMTcuODk1NCAxNCAxOVYyNEMxNCAyNS4xMDQ2IDEzLjEwNDYgMjYgMTIgMjZINkM0Ljg5NTQzIDI2IDQgMjUuMTA0NiA0IDI0VjE5QzQgMTcuODk1NCA0Ljg5NTQzIDE3IDYgMTdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTUgNkg2QzQuODk1NDMgNiA0IDYuODk1NDMgNCA4VjEzQzQgMTQuMTA0NiA0Ljg5NTQzIDE1IDYgMTVIMTVDMTYuMTA0NiAxNSAxNyAxNC4xMDQ2IDE3IDEzVjhDMTcgNi44OTU0MyAxNi4xMDQ2IDYgMTUgNloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xOCAyMEgyNkMyNy4xMDQ2IDIwIDI4IDIwLjg5NTQgMjggMjJWMjRDMjggMjUuMTA0NiAyNy4xMDQ2IDI2IDI2IDI2SDE4QzE2Ljg5NTQgMjYgMTYgMjUuMTA0NiAxNiAyNFYyMkMxNiAyMC44OTU0IDE2Ljg5NTQgMjAgMTggMjBaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+  "IconName": "icon_20.svg",
+  "Color": "#00C853",
+  "Version": "1.0.0",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Code": "UsrCustomApplication",
+  "Packages": [
+    {
+      "UId": "0510b13a-6784-4f99-9dd2-b18aefe7f58b",
+      "Name": "UsrCustomApplication"
+    },
+    {
+      "UId": "e1f21db6-23ec-aacb-45dc-ee0fd7cbdb76",
+      "Name": "UsrPackageInApplication"
+    }
+  ]
+}

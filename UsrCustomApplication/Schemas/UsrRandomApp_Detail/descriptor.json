@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dfe199dd-a7be-4bfe-aba3-dc7f3dc3c345",
+    "Name": "UsrRandomApp_Detail",
+    "ModifiedOnUtc": "\/Date(1730428189000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Random App detail",
+    "DependsOn": []
+  }
+}

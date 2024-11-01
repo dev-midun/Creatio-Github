@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8df59247-c7e9-4e6a-94fa-8fd257f19b43",
+    "Name": "UsrRandomApp_ListPage",
+    "ModifiedOnUtc": "\/Date(1730428189000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Random App list page",
+    "DependsOn": []
+  }
+}
